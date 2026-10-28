@@ -1,1 +1,3 @@
 hello
+select * from emp
+select * from department
